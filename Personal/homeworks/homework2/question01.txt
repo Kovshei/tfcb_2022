@@ -1,0 +1,15 @@
+My home directory is /root
+My name is x86_64-pc-linux-gnu , I know that is weird but I am a robot
+The contents of the tfcb_2022/lectures/lecture04/ directory are
+01-first-steps.md
+02-directories
+03-redirection
+04-vim
+05-history
+06-scripting
+07-more-interactive-shell
+README.md
+quickref.md
+sequence.gb
+slides
+vader.txt

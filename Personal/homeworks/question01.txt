@@ -1,8 +1,0 @@
-My home directory is /root
-The contents of the tfcb_2022/lectures/lecture04/ directory are
-Personal
-README.md
-homeworks
-lectures
-reference.md
-software
